@@ -1,0 +1,16 @@
+1.	Viết hàm tạo Một User trên hệ thống Domain Controller nhập từ bàn phím theo dạng tên sinh viên. Ví dụ sinh viên tên “Le Tan Dan Huy” , user tạo ra là HuyLTD
+2.	Viết hàm cập nhật mật khẩu của Một User nhập từ bàn phím.
+3.	Viết hàm tạo Profile và Home Dir cho Một user  nhập từ bàn phím.
+4.	Viết hàm xóa Một User trên hệ thống Domain Controller.
+5.	Viết hàm cài dịch vụ Web cho Server.
+6.	Viết hàm cài dịch vụ Telnet cho Server.
+7.	Viết hàm đọc file CSV
+8.	Tạo OU từ CSV đã đọc, lưu ý OU cha là QTM_CTY
+9.	Tạo tất cả User từ username và password từ file CSV đã đọc ở câu 7. Lưu ý tất cả User tạo ra phải có dạng HuyLTD nếu là tên theo họ.
+10.	Tạo tất cả Profile cho các User của câu 9
+11.	Đổi tất cả mật khẩu của các User đã tạo ở câu 9 thành QTM2023@
+12.	Viết hàm thiết lập cho Một user chỉ định có quyền remote desktop
+13.	Viết hàm copy file txt từ thư mục nguồn sang thư mục đích
+14.	Deploy phần mềm Foxi Reader.msi 
+15.	Cài đặt Website bằng IIS
+16.	Tìm hiểu Join domain trên linux.
